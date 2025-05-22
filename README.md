@@ -2,14 +2,12 @@
 
 <p align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=konga22&utm_content=farm">
-    <img src="https://render.gitanimals.org/farms/konga22" width="600" height="300" />
+    <img src="https://render.gitanimals.org/farms/konga22" width="100%" style="max-width:600px;" />
   </a>
 </p>
 
-
-
 <p align="center">
-  <strong><span style="font-size: 28px;">Welcome to konga22's GitHub!</span></strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=3F9FFF&center=true&vCenter=true&width=500&lines=HTML%2C+CSS%2C+C+코딩+중인+개발+꿈나무;코딩테스트+합격이+목표!;모든+것을+수익화+하는+그날까지" alt="Typing SVG" />
 </p>
 
 <p align="center">
