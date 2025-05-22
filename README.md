@@ -1,8 +1,8 @@
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=konga22&utm_content=farm">
   <img
-    src="https://render.gitanimals.org/guilds/konga22"
-    width="1000"
-    height="200"
+    src="https://render.gitanimals.org/farms/konga22"
+    width="600"
+    height="300"
   />
 </a>
 
