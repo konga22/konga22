@@ -1,4 +1,4 @@
-<p align="center"><strong>🐾 Gitanimal Farm</strong></p>
+<p align="center">🐶🐱🐰🦊</p>
 
 <p align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=konga22&utm_content=farm">
@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <strong><span style="font-size: 28px;">👋 Welcome to konga22's GitHub!</span></strong>
+  <strong><span style="font-size: 28px;">Welcome to konga22's GitHub!</span></strong>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ---
 
-<p align="center"><strong>🛠 Languages and Tools</strong></p>
+<p align="center"><strong>Languages and Tools</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
@@ -29,7 +29,7 @@
 
 ---
 
-<p align="center"><strong>📊 GitHub Stats</strong></p>
+<p align="center"><strong>GitHub Stats</strong></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=konga22&layout=compact&theme=gruvbox" />
