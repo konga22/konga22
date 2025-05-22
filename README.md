@@ -32,7 +32,7 @@
 
 <h2 align="center"> Gitanimal Farm</h2>
 
-
+<p align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=konga22&utm_content=farm">
     <img src="https://render.gitanimals.org/farms/konga22" width="600" height="300" />
   </a>
