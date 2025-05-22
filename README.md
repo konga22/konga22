@@ -7,8 +7,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3F9FFF&center=true&vCenter=true&width=500&lines=Learning+HTML%2C+CSS%2C+C;Coding+Test+Ready;Monetize+Everything+💰" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3F9FFF&center=true&vCenter=true&width=500&lines=Learning+HTML%2C+CSS%2C+C;Preparing+for+Coding+Tests;Turning+Everything+Into+Profit+💸" alt="Typing Animation" />
 </p>
+
+<p align="center">
+  HTML, CSS, C 언어를 공부 중인 개발 꿈나무<br>
+  목표: 코딩테스트 합격 & 실력 있는 개발자로 성장하기, 모든걸 수익화 껄껄룽
+</p>
+
 
 
 
