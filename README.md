@@ -39,3 +39,15 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=konga22&theme=gruvbox" />
 </p>
+
+---
+
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/konga22/snk/raw/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/konga22/snk/raw/output/github-snake.svg" />
+    <img alt="GitHub Snake" src="https://github.com/konga22/snk/raw/output/github-snake.svg" />
+  </picture>
+</p>
+
