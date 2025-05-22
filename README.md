@@ -36,3 +36,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=대학생+%2F+개발자+꿈나무;HTML+%2F+CSS+%2F+C+코딩+중;코딩테스트+합격+목표!" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=konga22&layout=compact&theme=gruvbox" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=konga22&theme=gruvbox" />
+</p>
