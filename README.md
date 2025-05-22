@@ -12,3 +12,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=konga22&" alt="konga22" />
 </div>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{username}"/>
+</a>
