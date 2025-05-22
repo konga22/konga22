@@ -28,7 +28,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=konga22&theme=gruvbox" />
 </p>
 
----
+
 
 <h2 align="center"> Gitanimal Farm</h2>
 
