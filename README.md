@@ -1,10 +1,13 @@
-<p align="center">🐶🐱🐰🦊</p>
+<p align="center">
+  <span style="font-size: 48px;">🐶 🐱 🐰 🦊</span>
+</p>
 
 <p align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=konga22&utm_content=farm">
     <img src="https://render.gitanimals.org/farms/konga22" width="100%" style="max-width:600px;" />
   </a>
 </p>
+
 
 <p align="center">
   HTML, CSS, C 언어를 공부 중인 개발 꿈나무<br>
