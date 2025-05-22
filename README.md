@@ -27,5 +27,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=konga22&layout=compact&theme=gruvbox" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=konga22&theme=gruvbox" />
 </p>
