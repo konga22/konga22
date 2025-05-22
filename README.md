@@ -6,7 +6,7 @@
   </a>
 </p>
 
----
+
 
 <p align="center">
   <strong><span style="font-size: 28px;">Welcome to konga22's GitHub!</span></strong>
