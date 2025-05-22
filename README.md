@@ -42,7 +42,6 @@
 
 ---
 
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/konga22/snk/raw/output/github-snake-dark.svg" />
@@ -50,4 +49,5 @@
     <img alt="GitHub Snake" src="https://github.com/konga22/snk/raw/output/github-snake.svg" />
   </picture>
 </p>
+
 
