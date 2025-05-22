@@ -1,10 +1,9 @@
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=konga22&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/konga22"
-    width="600"
-    height="300"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=konga22&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/konga22"
+  width="600"
+  height="300"
+/>
 </a>
   
 <h3 align="left">Languages and Tools:</h3>
