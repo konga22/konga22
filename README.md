@@ -1,6 +1,12 @@
+<p align="center"><strong>🐾 Gitanimal Farm</strong></p>
+
 <p align="center">
-  <img src="https://render.gitanimals.org/farms/konga22" width="600" height="300" />
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=konga22&utm_content=farm">
+    <img src="https://render.gitanimals.org/farms/konga22" width="600" height="300" />
+  </a>
 </p>
+
+---
 
 <p align="center">
   <strong><span style="font-size: 28px;">👋 Welcome to konga22's GitHub!</span></strong>
@@ -28,14 +34,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=konga22&layout=compact&theme=gruvbox" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=konga22&theme=gruvbox" />
-</p>
-
----
-
-<p align="center"><strong>🐾 Gitanimal Farm</strong></p>
-
-<p align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=konga22&utm_content=farm">
-    <img src="https://render.gitanimals.org/farms/konga22" width="600" height="300" />
-  </a>
 </p>
