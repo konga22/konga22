@@ -28,3 +28,11 @@
 
 ## 🌱 Gitanimal Farm
 [![gitanimals](https://render.gitanimals.org/farms/konga22)](https://www.gitanimals.org/en_US?utm_medium=image&utm_source=konga22&utm_content=farm)
+
+<h1 align="center">
+  Hi there 👋 I'm <span style="color: #915EFF;">konga22</span>!
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=대학생+%2F+개발자+꿈나무;HTML+%2F+CSS+%2F+C+코딩+중;코딩테스트+합격+목표!" alt="Typing SVG" />
+</p>
