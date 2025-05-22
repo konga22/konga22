@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=3F9FFF&center=true&vCenter=true&width=500&lines=HTML%2C+CSS%2C+C+코딩+중인+개발+꿈나무;코딩테스트+합격이+목표!;모든+것을+수익화+하는+그날까지" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=3F9FFF&center=true&vCenter=true&width=500&lines=Learning+HTML%2C+CSS%2C+C;Preparing+for+Coding+Tests;Turning+Everything+Into+Profit+💸" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   HTML, CSS, C 언어를 공부 중인 개발 꿈나무<br>
