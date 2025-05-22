@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=3F9FFF&center=true&vCenter=true&width=500&lines=Learning+HTML%2C+CSS%2C+C;Preparing+for+Coding+Tests;Turning+Everything+Into+Profit+💸" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3F9FFF&center=true&vCenter=true&width=500&lines=Learning+HTML%2C+CSS%2C+C;Coding+Test+Ready;Monetize+Everything+💰" alt="Typing Animation" />
 </p>
+
 
 
 <p align="center">
