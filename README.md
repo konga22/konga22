@@ -13,7 +13,7 @@
 
 ---
 
-<h2 align="center">🛠Languages and Tools</h2>
+<p align="center"><strong>🛠 Languages and Tools</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
@@ -23,7 +23,7 @@
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
+<p align="center"><strong>📊 GitHub Stats</strong></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=konga22&layout=compact&theme=gruvbox" />
@@ -32,7 +32,7 @@
 
 ---
 
-<h2 align="center">Gitanimal Farm</h2>
+<p align="center"><strong>🐾 Gitanimal Farm</strong></p>
 
 <p align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=konga22&utm_content=farm">
