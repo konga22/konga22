@@ -2,19 +2,22 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # 매일 자정 실행
+  workflow_dispatch:     # 수동 실행도 가능하게
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate GitHub Snake SVG
+        uses: Platane/snk@v3
         with:
-          github_user_name: konga22
+          github_user_name: konga22  # 너의 GitHub 아이디
           outputs: |
-            dist/github-contribution-grid-snake.svg
-      - name: Push to GitHub
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push to GitHub output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
