@@ -43,3 +43,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=konga22&layout=compact&theme=gruvbox" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=konga22&theme=gruvbox" />
 </p>
+
+## 🐾 Welcome to My GitHub Zoo!
+
+[![My GitAnimals Farm](https://render.gitanimals.org/farms/konga22)](https://www.gitanimals.org/users/konga22)
+
+> 현재 키우는 펫들과 contribution 현황입니다. 매일 commit하면 새로운 동물 친구가 생겨요!
