@@ -5,10 +5,17 @@
 <h3 align="center">안녕하세요! 👋</h3>
 
 <p align="center">
-  <b>HTML, CSS, C 언어를 공부 중인 개발 꿈나무입니다 ! </b><br>
-  목표: <b>코딩테스트 합격</b> & <b>실력 있는 개발자로 성장하기</b>, 프로젝트 수익화 ꉂꉂ(ᵔᗜᵔ*)
+  <b>HTML, CSS, C 언어를 공부 중인 개발 꿈나무입니다!</b>
 </p>
 
+<p align="center">
+  <b>🌟 목표</b><br>
+  🏆 코딩테스트 합격<br>
+  🚀 실력 있는 개발자로 성장<br>
+  💰 프로젝트 수익화 ꉂꉂ(ᵔᗜᵔ*)<br>
+
+  
+</p>
 <p align="center">
   <img src="cat-typing.gif" alt="타이핑하는 고양이" width="150"/>
 </p>
