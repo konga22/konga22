@@ -20,7 +20,9 @@
 
 ---
 
-<p align="center"><strong>Languages and Tools</strong></p>
+<p align="center">
+  <img src="cat-typing.gif" alt="타이핑하는 고양이" width="200"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
