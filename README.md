@@ -40,6 +40,7 @@
     고양이 츄르 많이 사주기
   </span>
 </p>
+
 </p>
 <p align="center">
   <img src="cat-typing.gif" alt="타이핑하는 고양이" width="150"/>
