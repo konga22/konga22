@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img src="cat-typing.gif" alt="타이핑하는 고양이" width="200"/>
+  <img src="cat-typing.gif" alt="타이핑하는 고양이" width="150"/>
 </p>
 
 <p align="center">
