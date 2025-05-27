@@ -4,7 +4,7 @@
 
 <h3 align="center">
   안녕하세요! 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" style="vertical-align: middle;" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" style="vertical-align: -5px;" />
 </h3>
 
 <p align="center">
@@ -13,14 +13,13 @@
 
 <p align="center">
   <b>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" style="vertical-align: middle;" /> 목표
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" style="vertical-align: -5px;" /> 목표
   </b><br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" style="vertical-align: middle;" /> 코딩테스트 합격<br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" style="vertical-align: middle;" /> 실력 있는 개발자로 성장<br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Dollar%20Banknote.png" alt="Dollar Banknote" width="25" height="25" style="vertical-align: middle;" /> 프로젝트 수익화 ꉂꉂ(ᵔᗜᵔ*)<br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="25" height="25" style="vertical-align: middle;" /> 고양이 츄르 많이 사주기<br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" style="vertical-align: -5px;" /> 코딩테스트 합격<br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" style="vertical-align: -5px;" /> 실력 있는 개발자로 성장<br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Dollar%20Banknote.png" alt="Dollar Banknote" width="25" height="25" style="vertical-align: -5px;" /> 프로젝트 수익화 ꉂꉂ(ᵔᗜᵔ*)<br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="25" height="25" style="vertical-align: -5px;" /> 고양이 츄르 많이 사주기<br>
 </p>
-  
 </p>
 <p align="center">
   <img src="cat-typing.gif" alt="타이핑하는 고양이" width="150"/>
