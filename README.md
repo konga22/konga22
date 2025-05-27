@@ -8,7 +8,6 @@
   <b>HTML, CSS, C 언어를 공부 중인 개발 꿈나무</b><br>
   목표: <b>코딩테스트 합격</b> & <b>실력 있는 개발자로 성장하기</b>, 모든걸 수익화 껄껄룽
 </p>
----
 
 <p align="center">
   <img src="cat-typing.gif" alt="타이핑하는 고양이" width="150"/>
