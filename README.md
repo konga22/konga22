@@ -24,11 +24,10 @@
 <p align="center"><strong>GitHub Stats</strong></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=konga22&layout=compact&theme=gruvbox" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=konga22&theme=gruvbox" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=konga22&theme=github_dark" />
+  
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=konga22&theme=github_dark" />
 </p>
 
 ---
