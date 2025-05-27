@@ -24,9 +24,12 @@
 <p align="center"><strong>GitHub Stats</strong></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=konga22&show_icons=true&hide_border=true&theme=dark" alt="konga22 github stats" style="max-width: 100%;">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=konga22&layout=compact&theme=dark&hide_border=true" alt="Top Langs" style="max-width: 100%;">
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api?username=konga22&show_icons=true&hide_border=true&theme=dark" alt="konga22 github stats" style="vertical-align: middle;"/>
+  </span>
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=konga22&layout=compact&theme=dark&hide_border=true" alt="Top Langs" style="vertical-align: middle;"/>
+  </span>
 </p>
 
 ---
