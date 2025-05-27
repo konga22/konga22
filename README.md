@@ -54,5 +54,6 @@
   </picture>
 </p>
 
-
+## 📅 일일 코딩
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=konga22&theme=dark)
 
