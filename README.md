@@ -2,17 +2,17 @@
   <img src="welcome-header.gif" alt="Welcome Header"/>
 </p>
 
-<h3 align="center">안녕하세요! 👋</h3>
+<h3 align="center">안녕하세요! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /></h3>
 
 <p align="center">
   <b>HTML, CSS, C 언어를 공부 중인 개발 꿈나무입니다!</b>
 </p>
 
 <p align="center">
-  <b>🌟 목표</b><br>
-  🏆 코딩테스트 합격<br>
-  🚀 실력 있는 개발자로 성장<br>
-  💰 프로젝트 수익화 ꉂꉂ(ᵔᗜᵔ*)<br>
+  <b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> 목표</b><br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> 코딩테스트 합격<br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> 실력 있는 개발자로 성장<br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Dollar%20Banknote.png" alt="Dollar Banknote" width="25" height="25" /> 프로젝트 수익화 ꉂꉂ(ᵔᗜᵔ*)<br>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="25" height="25" /> 고양이 츄르 많이 사주기<br>
   
 </p>
