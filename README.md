@@ -23,13 +23,15 @@
 
 <p align="center"><strong>GitHub Stats</strong></p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=konga22&theme=github_dark" />
-  
+<p dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=konga22&show_icons=true&hide_border=true&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api?username=konga22&show_icons=true&hide_border=true&theme=dark" alt="konga22 github stats" style="max-width: 100%;">
+  </a>
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=konga22&theme=github_dark" />
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=konga22&layout=compact&theme=dark&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=konga22&layout=compact&theme=dark&hide_border=true" alt="Top Langs" style="max-width: 100%;">
+  </a>
 </p>
-
 ---
 <p align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="50" height="50" />
