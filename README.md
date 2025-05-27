@@ -13,7 +13,7 @@
   🏆 코딩테스트 합격<br>
   🚀 실력 있는 개발자로 성장<br>
   💰 프로젝트 수익화 ꉂꉂ(ᵔᗜᵔ*)<br>
-  🐱 고양이 츄르 많이 사주기<br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="25" height="25" /> 고양이 츄르 많이 사주기<br>
   
 </p>
 <p align="center">
