@@ -25,10 +25,10 @@
 
 <p align="center">
   <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=konga22&show_icons=true&hide_border=true&theme=dark" alt="konga22 github stats" height="200" style="vertical-align: middle;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=konga22&show_icons=true&hide_border=true&theme=dark" alt="konga22 github stats" height="100" style="vertical-align: middle;"/>
   </span>
   <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=konga22&layout=compact&theme=dark&hide_border=true" alt="Top Langs" height="200" style="vertical-align: middle;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=konga22&layout=compact&theme=dark&hide_border=true" alt="Top Langs" height="100" style="vertical-align: middle;"/>
   </span>
 </p>
 
