@@ -2,12 +2,12 @@
   <img src="welcome-header.gif" alt="Welcome Header"/>
 </p>
 
+<h3 align="center">안녕하세요! 👋</h3>
 
 <p align="center">
-  HTML, CSS, C 언어를 공부 중인 개발 꿈나무<br>
-  목표: 코딩테스트 합격 & 실력 있는 개발자로 성장하기, 모든걸 수익화 껄껄룽
+  <b>HTML, CSS, C 언어를 공부 중인 개발 꿈나무</b><br>
+  목표: <b>코딩테스트 합격</b> & <b>실력 있는 개발자로 성장하기</b>, 모든걸 수익화 껄껄룽
 </p>
-
 ---
 
 <p align="center">
