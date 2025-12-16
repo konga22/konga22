@@ -43,7 +43,7 @@
 
 </p>
 <p align="center">
-  <img src="cat-typing.gif" alt="타이핑하는 고양이" width="150"/>
+  <img src="cat-typing.gif" alt="타이핑하는 고양이" width="300"/>
 </p>
 
 <p align="center">
